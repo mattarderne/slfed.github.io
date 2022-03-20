@@ -23,4 +23,5 @@ notes:
 - Weigh and add the flour and water, mix up neatly 
 - Leave for an hour then throw in fridge, with an elastic at the level
 - Then when you want to bake, feed it but don’t put it in the fridge, then use it in your recipe when it’s doubled in size
+
 ---

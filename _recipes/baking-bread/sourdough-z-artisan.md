@@ -32,3 +32,4 @@ notes:
 - 7:45 remove dough from the fridge, transfer to preheated pan, score, and bake at 260°C with the lid on for 25 minutes. 
 - 8:10 remove pan lid, reduce oven temperature to 245°C and bake uncovered for about 20 minutes or until deeply caramelized. allow loaf to cool completely – this will take several hours – before slicing and serving.
 
+---
