@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Savoury_waffles
+title: Savoury waffles
 source: https://www.beyondkimchee.com/savory-waffles/
 yield: 6 waffles
 time: 20 minutes
