@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: cant have gaps between sections here
-source: nor can you have line breaks
+title: The name of the recipe, typed as you want it to display
+source: Where you got the recipe (NB no line breaks in this section)
 yield: 
 time: also can't have colons in this section
 notes: nor can you have a line at the start
